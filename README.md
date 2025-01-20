@@ -21,9 +21,6 @@ Add the SVG files to your project and use them directly in your HTML or componen
 
 ## Links
 
-- [Icon Gallery](https://tailframes.com/icons): Browse and preview the full collection of available icons.
-
-## Links
-
-- [Tailframes Components](https://github.com/Tailframes/react-components)
-- [Tailframes Website](https://tailframes.com)
+- [Icon Gallery](https://tailframes.com/icons): Explore and preview the complete collection of free SVG icons.  
+- [Tailframes Components](https://github.com/Tailframes/react-components): Ready-to-use React components designed for seamless integration with Tailwind CSS.  
+- [Tailframes Website](https://tailframes.com): Visit our website for more resources, updates, and tools to enhance your projects.  
